@@ -22,8 +22,3 @@ Connects students with courses and stores grades.
 - Python
 - Object-Oriented Programming
 
-## How to Run
-
-Run the following command:
-
-python student_management.py
